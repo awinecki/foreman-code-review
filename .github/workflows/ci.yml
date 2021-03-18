@@ -13,4 +13,4 @@ jobs:
           sleep 1
           echo ".."
           sleep 1
-          echo "Tests passed!
+          echo "Tests passed!"
