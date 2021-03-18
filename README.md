@@ -1,1 +1,3 @@
-# foreman-code-review
+# Foreman code review model for Github repos
+
+TBD.

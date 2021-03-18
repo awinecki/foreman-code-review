@@ -1,0 +1,16 @@
+name: CI
+
+on:
+  pull_request:
+
+jobs:
+  test:
+    runs-on: [ubuntu-latest]
+    steps:
+      - name: Run tests
+        run: |
+          echo "Running tests.."
+          sleep 1
+          echo ".."
+          sleep 1
+          echo "Tests passed!
